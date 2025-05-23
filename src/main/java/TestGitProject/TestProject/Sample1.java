@@ -13,7 +13,5 @@ public class Sample1 {
 		System.out.println("*******************Method 3************************");
 	}public void method4() {
 		System.out.println("*******************Method 4************************");
-	}public void method5() {
-		System.out.println("*******************Method 5************************");
-	}
-}
+	
+}}
