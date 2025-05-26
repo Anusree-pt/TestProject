@@ -31,11 +31,11 @@ public class Sample1 {
 
 	}
 	
-	public void methodabc() {
+	public void methodabcd() {
 		System.out.println("*******************Method abc************************");
 
 	}
-	public void methodabc1() {
+	public void methodabcde() {
 		System.out.println("*******************Method abc1************************");
 
 	}
