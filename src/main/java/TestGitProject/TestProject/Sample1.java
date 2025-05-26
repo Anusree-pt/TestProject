@@ -30,4 +30,13 @@ public class Sample1 {
 		System.out.println("*******************Method 7************************");
 
 	}
+	
+	public void methodabc() {
+		System.out.println("*******************Method abc************************");
+
+	}
+	public void methodabc1() {
+		System.out.println("*******************Method abc1************************");
+
+	}
 }
