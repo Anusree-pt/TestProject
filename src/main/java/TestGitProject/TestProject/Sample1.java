@@ -36,7 +36,7 @@ public class Sample1 {
 
 	}
 	public void methodabcde() {
-		System.out.println("*******************Method abc1************************");
+		System.out.println("*******************Method xyz************************");
 
 	}
 }
