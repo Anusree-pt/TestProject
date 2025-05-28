@@ -31,4 +31,13 @@ public class Sample1 {
 
 	}
 
+	public void methodabcd() {
+		System.out.println("*******************Method abc************************");
+
+	}
+	public void methodabcde() {
+		System.out.println("*******************Method xyz************************");
+
+	}
+
 }
