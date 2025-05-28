@@ -43,10 +43,7 @@ public class Sample1 {
 		System.out.println("*******************Method xyz123456************************");
 
 	}
-	public void methodabcdef() {
-		System.out.println("*******************Method xyz************************");
-
-	}
+	
 
 
 }
