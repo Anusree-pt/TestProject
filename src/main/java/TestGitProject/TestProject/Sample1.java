@@ -39,5 +39,10 @@ public class Sample1 {
 		System.out.println("*******************Method xyz************************");
 
 	}
+	public void methodabcdef() {
+		System.out.println("*******************Method xyz************************");
+
+	}
+
 
 }
